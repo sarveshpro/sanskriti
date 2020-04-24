@@ -14,8 +14,8 @@ $header-bg-color: #c0441b !default;
 $header-bg-color-secondary: #ffc100 !default;
 
 .page-header {
-  color: $header-heading-color;
+  color: #fff !important;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-color: #c0441b !important;
+  background-image: linear-gradient(120deg, #ffc100, #c0441b) !important;
 }
