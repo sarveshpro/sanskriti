@@ -2,7 +2,7 @@
 
 We are trying to gather the best relics of Indian origin.
 
-# [Vedas](vedic-period/vedas.md)
+### [Vedas](vedic-period/vedas.md)
 https://en.wikipedia.org/wiki/Vedas
 
 * [Rigveda](vedic-period/rigveda.md) - [https://en.wikipedia.org/wiki/Rigveda](https://en.wikipedia.org/wiki/Rigveda)
