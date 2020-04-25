@@ -16,5 +16,5 @@ The Vedas (/ˈveɪdəz, ˈviː-/; Sanskrit: वेद veda, "knowledge") are a l
 The Indus Valley Civilization was an ancient civilization located in what is Pakistan and northwest India today, on the fertile flood plain of the Indus River and its vicinity. Evidence of religious practices in this area date back approximately to 5500 BCE. Farming settlements began around 4000 BCE and around 3000 BCE there appeared the first signs of urbanization. By 2600 BCE, dozens of towns and cities had been established, and between 2500 and 2000 BCE the Indus Valley Civilization was at its peak.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation)
-<br/>
+<br/> 
 [Ancient EU](https://www.ancient.eu/Indus_Valley_Civilization/)
